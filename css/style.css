@@ -3,3 +3,6 @@ body {
     background-size: cover;
     height: 100vh;
 }
+#status-icon{
+    width: 120px;
+}
